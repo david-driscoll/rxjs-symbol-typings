@@ -1,0 +1,5 @@
+{
+  "name": "rxjs",
+  "main": "rxjs-symbol-shim.d.ts",
+  "homepage": "http://reactivex.io/rxjs/"
+}
